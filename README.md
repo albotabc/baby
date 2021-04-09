@@ -1,4 +1,14 @@
-   <p style="color: black;text-indent: 2em;font-family: Kaiti;font-size: 26px;font-weight: 600;">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <p style="color: black;text-indent: 2em;font-family: Kaiti;font-size: 26px;font-weight: 600;">
         闹 的 挺 大，我们卡纳维拉尔角垂直装配车间（vab）都传到隔热瓦过热损坏了。
         先说一下，卡纳维拉尔角肯尼迪航天中心垂直装配车间的员工，以前是个二刺螈（EHRILCH C F.TPS），但现在很少观察洞鳗（DAVID A
         S,DANIEL），最多也就玩个二刺元油稀（应该指富油燃烧）。我有个初级中等教育机构共同研究仲良，我俩一起进入空间运输系统/STS（如OV-101 OV-102
@@ -34,3 +44,6 @@
     <p style="color: black;text-indent: 2em;font-family: Kaiti;font-size: 26px;font-weight: 600;"></p>
     特别鸣谢：节肢动物门双翅目环裂亚目完全变态昆虫幼虫实验室主管 张艾宇
     </p>
+</body>
+
+</html>
